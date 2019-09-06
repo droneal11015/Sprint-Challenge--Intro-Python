@@ -43,3 +43,4 @@ vehicles = [
 
 for v in vehicles:
   print(v.drive())
+  print(v.num_wheels)
